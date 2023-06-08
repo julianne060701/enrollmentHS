@@ -203,7 +203,7 @@ logout</span>Logout</a>
         </div>
         <div class="col-sm-6 p-0 d-flex justify-content-lg-end justify-content-center">
           <a href="#addEmployeeModal" class="btn btn-success" data-toggle="modal">
-		  <i class="material-icons">&#xE147;</i> <span>Add New Employee</span></a>
+		  <i class="material-icons">&#xE147;</i> <span>Add N</span></a>
 
         </div>
       </div>
@@ -351,7 +351,7 @@ logout</span>Logout</a>
     <div class="modal-content">
       <form>
         <div class="modal-header">
-          <h4 class="modal-title">Add Employee</h4>
+         
           <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
         </div>
         <div class="modal-body">
